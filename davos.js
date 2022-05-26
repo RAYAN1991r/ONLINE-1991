@@ -2128,7 +2128,7 @@ client20.on("message", async message => {
         .split(":")
     );
     if (!args[0])
-      return message.channel.send(
+      r3eturn message.channel.send(
         " Error : ``" + prefix + "react <ChannelID> <MessageID> <Emoji>``"
       );
     if (args[0].length > 18 || args[0].length <= 17) {
@@ -7387,7 +7387,7 @@ message.member.voiceChannel
 
 //تۆكینه‌كان لێره‌ جا بنێ
 
-client.login("");
+client.login("OTc4MjU0ODc5NDA5NzMzNjcy.GzujPn.RE3x2gO7alUGsIPnxdva9XXbds3xLNj4OYoQ0A");
 client2.login("");
 client3.login("");
 client4.login("");
